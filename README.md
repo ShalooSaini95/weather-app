@@ -1,3 +1,3 @@
 # weather-app
-author - shaloo saini<br>
+author - shaloo Longia saini<br>
 <b>this is bold line.</b>
